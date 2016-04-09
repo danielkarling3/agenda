@@ -18,7 +18,7 @@ public class ContatoDaoTest {
 	public void test() {
 		
 		ContatoDao contatoDao = new ContatoDao();
-		Contato contato = new Contato("Daniel Karling",
+		Contato contato = new Contato("Daniel Antonio Karling",
 					"danielantoniokarling3@gmail.com",
 					"Rua tom Jobim",
 					ZonedDateTime.now());
